@@ -1,0 +1,20 @@
+{
+  "name": "kaiten-announcements",
+  "description": "Marketplace for Kaiten announcement skill",
+  "owner": {
+    "name": "Daria Lebedeva",
+    "email": "d.lebedeva@kaiten.io"
+  },
+  "plugins": [
+    {
+      "name": "kaiten-announcement",
+      "description": "Скилл для написания анонсов новых функций Кайтена — от сырых материалов до готового Markdown-текста",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Daria Lebedeva",
+        "email": "d.lebedeva@kaiten.io"
+      }
+    }
+  ]
+}

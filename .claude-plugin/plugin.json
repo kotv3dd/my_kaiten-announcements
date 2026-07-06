@@ -1,0 +1,17 @@
+{
+  "name": "kaiten-announcement",
+  "description": "Скилл для написания анонсов новых функций Кайтена — от сырых материалов до готового Markdown-текста",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daria Lebedeva",
+    "email": "d.lebedeva@kaiten.io"
+  },
+  "homepage": "https://github.com/dlebedeva-kai/kaiten-announcements",
+  "repository": "https://github.com/dlebedeva-kai/kaiten-announcements",
+  "keywords": [
+    "kaiten",
+    "announcements",
+    "content",
+    "writing"
+  ]
+}
