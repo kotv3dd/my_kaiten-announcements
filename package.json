@@ -1,0 +1,10 @@
+{
+  "name": "kaiten-announcement",
+  "version": "1.0.0",
+  "description": "Скилл для написания анонсов новых функций Кайтена",
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
