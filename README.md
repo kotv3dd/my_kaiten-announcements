@@ -11,7 +11,7 @@ Claude Code Skill для написания анонсов новых фич К�
 
 2. Добавь источник скилла:
    ```
-   /plugin marketplace add <твой-github-username>/kaiten-announcements
+   /plugin marketplace add dlebedeva-kai/kaiten-announcements
    ```
 
 3. Установи скилл:
